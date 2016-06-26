@@ -1,0 +1,1 @@
+global numHiddenLayers inputMatrix theta regularizer W b
